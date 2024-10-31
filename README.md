@@ -1,2 +1,2 @@
-# html
-This is my repository for practicing html
+# HTML PRCTICE
+This is my repository for practicing Web Designing using HTML and CSS.
